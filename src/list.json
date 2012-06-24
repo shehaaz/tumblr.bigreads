@@ -1,0 +1,102 @@
+{
+   "doc":[
+	{
+			"name":"Peter",
+			"age" : 30,
+			"hair color" : "Blond",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	},
+	{
+			"name":"John",
+			"age" : 30,
+			"hair color" : "Brown",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	
+	
+	},
+	{
+			"name":"April",
+			"age" : 11,
+			"hair color" : "Black",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	},
+	{
+			"name":"May",
+			"age" : 28,
+			"hair color" : "Red",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	
+	
+	},
+		{
+			"name":"alex",
+			"age" : 30,
+			"hair color" : "Blond",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	},
+	{
+			"name":"Jim",
+			"age" : 30,
+			"hair color" : "Brown",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	
+	
+	},
+	{
+			"name":"bob",
+			"age" : 11,
+			"hair color" : "Black",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	},
+	{
+			"name":"shehaaz",
+			"age" : 28,
+			"hair color" : "Red",
+			"classes" : [
+				"science",
+				"geography",
+				"PE",
+				"math"
+			]
+	
+	
+	}
+
+	]
+}
+		
