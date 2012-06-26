@@ -1,1 +1,1 @@
-Project BigReads
+Project BigReads: Making Books Awesome
